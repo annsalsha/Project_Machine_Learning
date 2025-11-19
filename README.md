@@ -17,7 +17,7 @@ Proyek ini bertujuan untuk membangun model klasifikasi teks menggunakan dua pend
 │   └── (file laporan proyek)
 │
 ├── Modeling/
-│   ├── lstm.ipynb               # Model Deep Learning (LSTM)
+│   ├── lstm.ipynb               # Preprocessing + Model Deep Learning (LSTM)
 │   └── preprocess_ml.ipynb      # Preprocessing + Machine Learning
 │
 └── README.md
