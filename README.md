@@ -1,6 +1,6 @@
 # 📝 Text Classification & Sentiment Analysis Project
 
-Proyek ini bertujuan untuk membangun model klasifikasi teks menggunakan dua pendekatan utama, yaitu machine learning dan deep learning. Dataset terdiri dari data latih, data uji, serta data berlabel manual. Model yang dikembangkan mencakup SVM, Logistic Regression, Random Forest, dan LSTM.
+Proyek ini bertujuan untuk membangun model klasifikasi teks menggunakan dua pendekatan utama, yaitu machine learning dan deep learning.Dataset terdiri dari 1500 data komentar YouTube yang mencakup data latih, data uji, serta dataset berlabel manual. Model yang dikembangkan mencakup SVM, Logistic Regression, Random Forest, dan LSTM.
 
 ---
 
