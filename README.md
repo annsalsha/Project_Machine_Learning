@@ -6,20 +6,22 @@ Proyek ini bertujuan untuk membangun model klasifikasi teks menggunakan dua pend
 
 ## 📁 Struktur Folder
 
+```
 .
 ├── Dataset/
-│ ├── Train.csv
-│ ├── Test.csv
-│ └── Label.xlsx
+│   ├── Train.csv
+│   ├── Test.csv
+│   └── Label.xlsx
 │
 ├── Laporan/
-│ └── (file laporan proyek)
+│   └── (file laporan proyek)
 │
 ├── Modeling/
-│ ├── lstm.ipynb # Model Deep Learning (LSTM)
-│ └── preprocess_ml.ipynb # Preprocessing + Machine Learning
+│   ├── lstm.ipynb               # Model Deep Learning (LSTM)
+│   └── preprocess_ml.ipynb      # Preprocessing + Machine Learning
 │
 └── README.md
+```
 
 ---
 
@@ -96,4 +98,3 @@ Dataset memiliki kolom teks dan label yang digunakan untuk pelatihan dan evaluas
 - Pandas, NumPy  
 - Jupyter Notebook  
 - Matplotlib / Seaborn  
--
