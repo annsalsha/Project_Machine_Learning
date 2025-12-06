@@ -11,7 +11,8 @@ Proyek ini bertujuan untuk membangun model klasifikasi teks menggunakan dua pend
 ├── Dataset/
 │   ├── Train.csv
 │   ├── Test.csv
-│   └── Label.xlsx
+│   ├── Label.xlsx
+│   └── youtube_comments.json
 │
 ├── Laporan Machine Learning
 │
@@ -19,7 +20,7 @@ Proyek ini bertujuan untuk membangun model klasifikasi teks menggunakan dua pend
 │   ├── Machine Learning.ipynb
 │   ├── LSTM.ipynb
 │   ├── IndoBERT.ipynb
-│   └── IndoBERT_LoRA_XAI.ipynb 
+│   └── indobert_+_LoRa_XAI.ipynb
 │
 ├── Scientific Research Poster
 └── README.md
@@ -82,9 +83,10 @@ Dataset berada pada folder Dataset/ dan terdiri dari:
 
 - *Train.csv* → data pelatihan model  
 - *Test.csv* → data pengujian model  
-- *Label.xlsx* → dataset dengan label lengkap  
+- *Label.xlsx* → dataset dengan label lengkap
+- *youtube_comments.json* → dataset mentah
 
-Dataset memiliki kolom teks dan label yang digunakan untuk pelatihan dan evaluasi.
+Dataset .csv memiliki kolom teks dan label yang digunakan untuk pelatihan dan evaluasi.
 
 ---
 
